@@ -49,6 +49,10 @@ Test Data Analyst réalisé dans un cadre fictif pour évaluer les compétences 
 ---
 
 ## 👤 À propos de moi
-**Sébastien PALADIAN** – Data Analyst passionné  
-📧 [sebastien.paladian@gmail.com]  
-🔗 [LinkedIn]([[https://www.linkedin.com/in/sebastien-paladian/)]
+
+Je suis passionné par la **data analyse**, la **visualisation interactive** et l’**application concrète des outils data à des problématiques métiers**.  
+Ce projet illustre ma capacité à **combiner Python, Excel et Power BI** pour produire des analyses actionnables.
+
+**Sébastien PALADIAN** – [sebastien.paladian@gmail.com] – [LinkedIn](https://www.linkedin.com/in/sebastien-paladian/)
+
+Merci pour votre intérêt pour ce projet !
