@@ -36,9 +36,6 @@ Test Data Analyst réalisé dans un cadre fictif pour évaluer les compétences 
    - Dashboard interactif avec KPI, filtres et graphiques métier  
    - Visualisation des segments et comparaisons  
 
-4. **Documentation & consignes**  
-   - Énoncé du test et questions en `docs/FUZEO_Test_Data Analyst.pdf`
-
 ---
 
 ## 💡 Résultats clés
