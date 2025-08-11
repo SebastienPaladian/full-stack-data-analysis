@@ -1,4 +1,4 @@
-# 🔍 Data Insights – Python, SQL & Power BI
+# 🔍 Data Insights – Python, SQL & Power BI pour un cabinet de consulting en data finance et stratégie organisationnelle 
 
 ## 🎯 Contexte du projet
 Test Data Analyst réalisé dans un cadre fictif pour évaluer les compétences en :
